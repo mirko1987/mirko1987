@@ -45,6 +45,6 @@ I regularly publish helpful content:
 > “Enthusiastic and curious developer. I am passionate about technology, innovation, data, and sports.”
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirko1987)](https://github.com/mirko1987/github-readme-stats)
 
 
