@@ -1,16 +1,50 @@
-## Hi there 👋
+## 👋 Hi, I'm Mirko Vitale!
 
-<!--
-**mirko1987/mirko1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mentor and Full‑Stack Developer at Ubiqum Code Academy, driven by curiosity and passion for technology, data, and sports.
 
-Here are some ideas to get you started:
+- 💡 *Enthusiastic and curious developer.*  
+- 🧠 Background in Computer Science, with a focus on innovative projects.  
+- 🏆 Mentor at Ubiqum, helping new talent grow in the development world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✍ What I Do
+
+- 👨‍🏫 Mentoring and teaching in web and full-stack development.  
+- 🏗 Building applications using modern technologies (JavaScript, Python, frameworks...).  
+- 📊 Data-driven mindset: I enjoy working with data to make informed decisions.
+
+---
+
+### 🌱 Projects & Contributions
+
+I'm expanding my journey with open-source and personal projects. Don’t miss:
+
+- Learning-focused projects and tutorials in **web development** and **data engineering**.  
+- LinkedIn posts and knowledge sharing, such as my breakdown on *container queries* to improve responsive CSS.
+
+---
+
+### 📫 Get in Touch
+
+- LinkedIn: [Mirko Vitale](https://www.linkedin.com/in/mirko-vitale-b4ba21184/)  
+- Open-source & coding: follow my GitHub to track ongoing work.
+
+---
+
+### 🌐 Digital Garden
+
+I regularly publish helpful content:
+- LinkedIn articles focused on modern CSS, web performance, and best practices.
+- Step-by-step full-stack projects I build through mentoring and technical coaching.
+
+---
+
+#### ⏳ Personal Quote
+
+> “Enthusiastic and curious developer. I am passionate about technology, innovation, data, and sports.”
+
+---
+
+
+
