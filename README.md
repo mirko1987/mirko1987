@@ -31,6 +31,10 @@ I'm expanding my journey with open-source and personal projects. Don’t miss:
 - Open-source & coding: follow my GitHub to track ongoing work.
 
 ---
+### 📈 My GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mirkovitale&theme=github-dark&area=true)
+
 
 ### 🌐 Digital Garden
 
