@@ -31,9 +31,10 @@ I'm expanding my journey with open-source and personal projects. Don’t miss:
 - Open-source & coding: follow my GitHub to track ongoing work.
 
 ---
-### 📈 My GitHub Activity
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkovitale&layout=compact&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mirkovitale&theme=github-dark&area=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirkovitale&show_icons=true&theme=github_dark)
+
 
 
 ### 🌐 Digital Garden
